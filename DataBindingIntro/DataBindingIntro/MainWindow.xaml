@@ -1,0 +1,12 @@
+﻿<Window x:Class="DataBindingIntro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Slider Name="slider" Minimum="10" Maximum="100" IsEnabled="{Binding ElementName=chkEnable, Path=IsChecked}"/>
+            <CheckBox Name="chkEnable" Content="zet aan" FontSize="{Binding ElementName=slider, Path=Value}"/>
+            <TextBox Text="{Binding ElementName=slider, Path=Value, Mode=OneWay}"/>
+        </StackPanel>
+    </Grid>
+</Window>

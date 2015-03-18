@@ -1,0 +1,13 @@
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\bin\Debug\DataBindingIntro.exe.config
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\bin\Debug\DataBindingIntro.exe
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\bin\Debug\DataBindingIntro.pdb
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.csprojResolveAssemblyReference.cache
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\MainWindow.baml
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\MainWindow.g.cs
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\App.g.cs
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro_MarkupCompile.cache
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.g.resources
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.Properties.Resources.resources
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.csproj.GenerateResource.Cache
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.exe
+C:\Users\Sjeedie\Dropbox\Artesis\Anno 2014 - 2015\Semester 2\Labo Softwareontwikkeling 4\Week 6\DataBindingIntro\DataBindingIntro\obj\Debug\DataBindingIntro.pdb
