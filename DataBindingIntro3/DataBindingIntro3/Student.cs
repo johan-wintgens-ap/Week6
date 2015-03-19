@@ -6,21 +6,22 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace DataBindingIntro2
+namespace DataBindingIntro3
 {
-    class Student
+    public class Student
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-
         public Student()
         {
-            //deComputer.Merk = "Pear";
-            //deComputer.Opslag = 500;
+            DeComputer = new List<Computer>();
+            DeComputer.Add(new Computer(){Merk = "apple", Opslag = 10});
+            DeComputer.Add(new Computer(){Merk = "PC", Opslag = 12});
         }
 
         public string Naam { get; set; }
         public int Leeftijd { get; set; }
-        public Computer deComputer { get; set; }
+        List<Computer> DeComputer { get; set; }
+
+        public string LogoUrl { get { return "http://cdn-img.easyicon.net/png/5008/500805.png"; } }
 
         public void ToonInfo()
         {
@@ -28,7 +29,7 @@ namespace DataBindingIntro2
         }
     }
 
-    class Computer
+    public class Computer
     {
         public string Merk { get; set; }
         public int Opslag { get; set; }
